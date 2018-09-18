@@ -38,6 +38,9 @@ define('DB_CHARSET', 'utf8');
 /** O tipo de Collate do banco de dados. Não altere isso se tiver dúvidas. */
 define('DB_COLLATE', '');
 
+define('WP_HOME','http://estacio.oneoone.eco.br');
+define('WP_SITEURL','http://estacio.oneoone.eco.br');
+
 /**#@+
  * Chaves únicas de autenticação e salts.
  *
