@@ -1,0 +1,34 @@
+2018-08-21T15:15:09+00:00 NOTICE sync.started :: Starting Sync :: Tue, Aug 21, 2018 6:15 PM
+2018-08-21T15:15:16+00:00 NOTICE product_sync.success :: addStoreProduct :: #211
+2018-08-21T15:15:17+00:00 NOTICE product_sync.success :: addStoreProduct :: #212
+2018-08-21T15:15:19+00:00 NOTICE product_sync.success :: addStoreProduct :: #236
+2018-08-21T15:15:20+00:00 NOTICE product_sync.success :: addStoreProduct :: #238
+2018-08-21T15:15:21+00:00 NOTICE product_sync.success :: addStoreProduct :: #239
+2018-08-21T15:15:26+00:00 NOTICE product_sync.success :: addStoreProduct :: #240
+2018-08-21T15:15:27+00:00 NOTICE product_sync.success :: addStoreProduct :: #264
+2018-08-21T15:15:29+00:00 NOTICE product_sync.success :: addStoreProduct :: #265
+2018-08-21T15:15:29+00:00 NOTICE product_sync.success :: addStoreProduct :: #266
+2018-08-21T15:15:31+00:00 NOTICE product_sync.success :: addStoreProduct :: #504
+2018-08-21T15:15:32+00:00 NOTICE product_sync.success :: addStoreProduct :: #696
+2018-08-21T15:15:33+00:00 NOTICE product_sync.success :: addStoreProduct :: #763
+2018-08-21T15:15:33+00:00 NOTICE product_sync.success :: addStoreProduct :: #822
+2018-08-21T15:15:34+00:00 NOTICE product_sync.success :: addStoreProduct :: #823
+2018-08-21T15:15:35+00:00 NOTICE product_sync.success :: addStoreProduct :: #824
+2018-08-21T15:15:39+00:00 NOTICE product_sync.success :: addStoreProduct :: #826
+2018-08-21T15:15:40+00:00 NOTICE product_sync.success :: addStoreProduct :: #827
+2018-08-21T15:15:41+00:00 NOTICE product_sync.success :: addStoreProduct :: #828
+2018-08-21T15:15:43+00:00 NOTICE product_sync.completed :: Done with the product sync :: queuing up the orders next!
+2018-08-21T15:15:49+00:00 NOTICE order_submit.success :: addStoreOrder :: #659 :: email: marciolpfranca@gmail.com
+2018-08-21T15:15:53+00:00 NOTICE order_submit.success :: addStoreOrder :: #671 :: email: raphaelrpais@gmail.com
+2018-08-21T15:15:55+00:00 NOTICE order_submit.success :: addStoreOrder :: #679 :: email: mhauer@gmail.com
+2018-08-21T15:16:03+00:00 NOTICE order_submit.success :: addStoreOrder :: #725 :: email: julianadaluzrod@yahoo.com.br
+2018-08-21T15:16:06+00:00 NOTICE order_submit.success :: addStoreOrder :: #728 :: email: brendda.costa@hotmail.com
+2018-08-21T15:16:09+00:00 NOTICE order_submit.completed :: Done with the order sync.
+2018-08-21T15:16:09+00:00 NOTICE sync.completed :: Finished Sync :: Tue, Aug 21, 2018 6:16 PM
+2018-08-30T17:09:48+00:00 NOTICE abandoned_cart.success :: email: impartransporte.rj@gmail.com :: checkout_url: https://oneoone.eco.br/finalizar-compra/?mc_cart_id=0066c04ccbed329e2edd852c18d4d63b
+2018-08-30T17:10:08+00:00 NOTICE ac.cart_swap :: Deleted cart [impartransporte.rj@gmail.com] :: ID [0066c04ccbed329e2edd852c18d4d63b]
+2018-08-30T17:10:13+00:00 NOTICE abandoned_cart.success :: email: administrativo@impartransporterj.com.br :: checkout_url: https://oneoone.eco.br/finalizar-compra/?mc_cart_id=e5d3453b0577cfa7ed3c5438e226a478
+2018-08-30T17:14:15+00:00 NOTICE abandoned_cart.success :: email: administrativo@impartransporterj.com.br :: checkout_url: https://oneoone.eco.br/finalizar-compra/?mc_cart_id=e5d3453b0577cfa7ed3c5438e226a478
+2018-08-30T17:38:09+00:00 NOTICE order_submit.success :: addStoreOrder :: #956 :: email: administrativo@impartransporterj.com.br :: landing site https://oneoone.eco.br/ :: abandoned cart deleted [e5d3453b0577cfa7ed3c5438e226a478]
+2018-09-05T08:42:31+00:00 NOTICE order_submit.success :: updateStoreOrder :: #956 :: email: administrativo@impartransporterj.com.br
+2018-09-05T08:42:32+00:00 NOTICE order_submit.success :: updateStoreOrder :: #956 :: email: administrativo@impartransporterj.com.br

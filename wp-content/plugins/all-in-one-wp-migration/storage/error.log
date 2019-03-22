@@ -1,0 +1,21 @@
+Sep 20 2018 17:43:38
+{"type":32,"message":"PHP Startup: Unable to load dynamic library '\/usr\/local\/php\/PHP56\/lib\/php\/extensions\/no-debug-non-zts-20131226\/amqp.so' - librabbitmq.so.1: cannot open shared object file: No such file or directory","file":"Unknown","line":0}
+
+Sep 20 2018 17:45:36
+{"type":32,"message":"PHP Startup: Unable to load dynamic library '\/usr\/local\/php\/PHP56\/lib\/php\/extensions\/no-debug-non-zts-20131226\/amqp.so' - librabbitmq.so.1: cannot open shared object file: No such file or directory","file":"Unknown","line":0}
+
+Sep 20 2018 17:46:58
+{"type":32,"message":"PHP Startup: Unable to load dynamic library '\/usr\/local\/php\/PHP56\/lib\/php\/extensions\/no-debug-non-zts-20131226\/amqp.so' - librabbitmq.so.1: cannot open shared object file: No such file or directory","file":"Unknown","line":0}
+
+Sep 20 2018 17:48:04
+{"type":32,"message":"PHP Startup: Unable to load dynamic library '\/usr\/local\/php\/PHP56\/lib\/php\/extensions\/no-debug-non-zts-20131226\/amqp.so' - librabbitmq.so.1: cannot open shared object file: No such file or directory","file":"Unknown","line":0}
+
+Sep 20 2018 17:51:09
+{"type":2,"message":"is_readable(): open_basedir restriction in effect. File(\/dev\/urandom) is not within the allowed path(s): (\/home\/estacio.oneoone.eco.br)","file":"\/home\/estacio.oneoone.eco.br\/public\/wp-includes\/class-phpass.php","line":68}
+
+Sep 20 2018 18:00:20
+{"type":32,"message":"PHP Startup: Unable to load dynamic library '\/usr\/local\/php\/PHP56\/lib\/php\/extensions\/no-debug-non-zts-20131226\/amqp.so' - librabbitmq.so.1: cannot open shared object file: No such file or directory","file":"Unknown","line":0}
+
+Sep 20 2018 18:00:38
+{"type":32,"message":"PHP Startup: Unable to load dynamic library '\/usr\/local\/php\/PHP56\/lib\/php\/extensions\/no-debug-non-zts-20131226\/amqp.so' - librabbitmq.so.1: cannot open shared object file: No such file or directory","file":"Unknown","line":0}
+
