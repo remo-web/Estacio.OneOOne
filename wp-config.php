@@ -30,7 +30,7 @@ define('DB_USER', 'remo-estacio-ooo');
 define('DB_PASSWORD', 'REMO-ESTACIO-ooo#1');
 
 /** Nome do host do MySQL */
-define('DB_HOST', 'mysql942.umbler.com');
+define('DB_HOST', 'mysql995.umbler.com');
 
 /** Charset do banco de dados a ser usado na criação das tabelas. */
 define('DB_CHARSET', 'utf8mb4');
